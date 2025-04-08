@@ -13,6 +13,13 @@ print("Hello Jarvis")
 
 print ("hello AI")
 
+print("DDDD   L")
+print("D   D  L")
+print("D   D  L")
+print("D   D  L")
+print("D   D  L")
+print("D   D  L")
+print("DDDD   LLLLL")
 
 
 
