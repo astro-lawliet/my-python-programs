@@ -5,7 +5,12 @@ address=input('where do you live\n')
 print(name+number+email+address)
 
 
+weight = 64
+height = 164
 
+bmi = weight / (height ** 2)
+
+print(bmi)
 
 
 
